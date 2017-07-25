@@ -1,2 +1,1 @@
-# brandenbortolin.github.io
-Personal website for Branden Bortolin
+This is a personal website for me!
